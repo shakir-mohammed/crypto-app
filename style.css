@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+
+  .title{
+      font-weight: bold;
+      color: rgb(241, 241, 249);
+  }
+  .table img{
+      width: 40px;
+  }
+
+.footer{
+    width: 100vw;
+    height: fit-content;
+    background-color: rgb(205, 205, 205);
+    color: rgb(83, 83, 83);
+}
+.brand{
+    color: #1069d9;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
